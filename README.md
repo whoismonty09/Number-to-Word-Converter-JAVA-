@@ -36,3 +36,6 @@ The Number to Word Converter is a Java-based GUI application that allows users t
 3. Compile the program:
    ```bash
    javac NumberWordConverter.java
+
+---
+
