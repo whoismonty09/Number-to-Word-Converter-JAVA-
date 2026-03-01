@@ -50,8 +50,9 @@ The Number to Word Converter is a Java-based GUI application that allows users t
 ---
 
 ## ✨ Future Improvements
-Support larger numbers (millions & billions)
-Add voice output
-Add dark mode UI
-Add copy-to-clipboard feature
-Add multilingual support
+
+- Support larger numbers (millions & billions)
+- Add voice output
+- Add dark mode UI
+- Add copy-to-clipboard feature
+- Add multilingual support
