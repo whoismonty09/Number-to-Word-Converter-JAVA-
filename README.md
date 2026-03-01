@@ -61,4 +61,4 @@ The Number to Word Converter is a Java-based GUI application that allows users t
 
 ## Author
 
-
+Developed by Monty
