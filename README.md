@@ -42,7 +42,7 @@ The Number to Word Converter is a Java-based GUI application that allows users t
 ## 📚 Concepts Used
 
 - Java Swing GUI
-Conditional logic
-String manipulation
-Event handling
-OOP principles
+- Conditional logic
+- String manipulation
+- Event handling
+- OOP principles
