@@ -56,3 +56,6 @@ The Number to Word Converter is a Java-based GUI application that allows users t
 - Add dark mode UI
 - Add copy-to-clipboard feature
 - Add multilingual support
+
+---
+
