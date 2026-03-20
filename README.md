@@ -1,4 +1,4 @@
-# 🔢 Number to Word Converter (Java)
+# 🔢 Number to Word Converter (JAVA)
 
 A simple Java GUI application that converts numeric values into their word representation using Java Swing.
 
